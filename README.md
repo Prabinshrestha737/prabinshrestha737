@@ -9,7 +9,6 @@
 
 - 🔭 I’m currently working on **Classified Marketplace**
 
-- 🌱 I’m currently learning **Flask**
 
 - 📝 I regularly write articles on [prabin-shrestha.com.np](prabin-shrestha.com.np)
 
