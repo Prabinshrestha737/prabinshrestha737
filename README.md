@@ -12,8 +12,6 @@
 
 - 📝 I regularly write articles on [prabin-shrestha.com.np](prabin-shrestha.com.np)
 
-- 💬 Ask me about **Python, Django**
-
 - 📫 How to reach me **info@prabin-shrestha.com.np**
 
 <h3 align="left">Connect with me:</h3>
