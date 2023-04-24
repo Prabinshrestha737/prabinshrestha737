@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Classified Marketplace**
-
+- Currenty, I’m reading **The Strength in our Scars**
 
 - 📝 I regularly write articles on [prabin-shrestha.com.np](prabin-shrestha.com.np)
 
